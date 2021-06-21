@@ -1,0 +1,14 @@
+.header {
+    grid-area: h;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid #dbe2e6;
+    margin: auto;
+    width: 100%;
+    z-index: 21;
+    background-color: #fff;
+}
+.logo {
+    width: 80%;
+}
